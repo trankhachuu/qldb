@@ -100,6 +100,12 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="GUI\Frm_CauLacBo.resx">
+      <DependentUpon>Frm_CauLacBo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GUI\Frm_DoiBong.resx">
+      <DependentUpon>Frm_DoiBong.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="GUI\Frm_HuanLuyenVien.resx">
       <DependentUpon>Frm_HuanLuyenVien.cs</DependentUpon>
     </EmbeddedResource>
