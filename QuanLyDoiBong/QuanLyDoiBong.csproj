@@ -44,14 +44,50 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BUS\BUS_CauLacBo.cs" />
+    <Compile Include="BUS\BUS_CauThu.cs" />
+    <Compile Include="BUS\BUS_DoiBong.cs" />
+    <Compile Include="BUS\BUS_HuanLuyenVien.cs" />
+    <Compile Include="DAL\ConnectDatabase.cs" />
+    <Compile Include="DAL\DAL_CauLacBo.cs" />
+    <Compile Include="DAL\DAL_CauThu.cs" />
+    <Compile Include="DAL\DAL_DoiBong.cs" />
+    <Compile Include="DAL\DAL_HuanLuyenVien.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="GUI\Frm_CauLacBo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Frm_CauLacBo.Designer.cs">
+      <DependentUpon>Frm_CauLacBo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Frm_CauThu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Frm_CauThu.Designer.cs">
+      <DependentUpon>Frm_CauThu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Frm_DoiBong.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Frm_DoiBong.Designer.cs">
+      <DependentUpon>Frm_DoiBong.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUI\Frm_HuanLuyenVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GUI\Frm_HuanLuyenVien.Designer.cs">
+      <DependentUpon>Frm_HuanLuyenVien.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="GUI\Frm_HuanLuyenVien.resx">
+      <DependentUpon>Frm_HuanLuyenVien.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
@@ -74,6 +110,7 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
