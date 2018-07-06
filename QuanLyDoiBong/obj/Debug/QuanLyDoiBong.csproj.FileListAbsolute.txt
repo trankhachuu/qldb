@@ -1,2 +1,3 @@
 c:\users\huu duc\documents\visual studio 2013\Projects\QuanLyDoiBong\QuanLyDoiBong\bin\Debug\QuanLyDoiBong.exe.config
 C:\Users\cuong\Desktop\qldb\QuanLyDoiBong\bin\Debug\QuanLyDoiBong.exe.config
+C:\Users\HUU DUC\Documents\Visual Studio 2013\Projects\qldb\QuanLyDoiBong\bin\Debug\QuanLyDoiBong.exe.config
