@@ -1,3 +1,13 @@
 c:\users\huu duc\documents\visual studio 2013\Projects\QuanLyDoiBong\QuanLyDoiBong\bin\Debug\QuanLyDoiBong.exe.config
 C:\Users\cuong\Desktop\qldb\QuanLyDoiBong\bin\Debug\QuanLyDoiBong.exe.config
 C:\Users\HUU DUC\Documents\Visual Studio 2013\Projects\qldb\QuanLyDoiBong\bin\Debug\QuanLyDoiBong.exe.config
+C:\Users\cuong\Desktop\qldb\QuanLyDoiBong\bin\Debug\QUANLYDOIBONG.mdf
+C:\Users\cuong\Desktop\qldb\QuanLyDoiBong\bin\Debug\QUANLYDOIBONG_log.ldf
+C:\Users\cuong\Desktop\qldb\QuanLyDoiBong\bin\Debug\QuanLyDoiBong.exe
+C:\Users\cuong\Desktop\qldb\QuanLyDoiBong\bin\Debug\QuanLyDoiBong.pdb
+C:\Users\cuong\Desktop\qldb\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.csprojResolveAssemblyReference.cache
+C:\Users\cuong\Desktop\qldb\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.GUI.Frm_HuanLuyenVien.resources
+C:\Users\cuong\Desktop\qldb\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.Properties.Resources.resources
+C:\Users\cuong\Desktop\qldb\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.csproj.GenerateResource.Cache
+C:\Users\cuong\Desktop\qldb\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.exe
+C:\Users\cuong\Desktop\qldb\QuanLyDoiBong\obj\Debug\QuanLyDoiBong.pdb
